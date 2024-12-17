@@ -1,0 +1,8 @@
+D:\3rd CS\Algo Tasks\HeapSort\HeapSort\obj\Debug\HeapSort.csproj.AssemblyReference.cache
+D:\3rd CS\Algo Tasks\HeapSort\HeapSort\obj\Debug\HeapSort.csproj.SuggestedBindingRedirects.cache
+D:\3rd CS\Algo Tasks\HeapSort\HeapSort\obj\Debug\HeapSort.csproj.CoreCompileInputs.cache
+D:\3rd CS\Algo Tasks\HeapSort\HeapSort\bin\Debug\HeapSort.exe.config
+D:\3rd CS\Algo Tasks\HeapSort\HeapSort\bin\Debug\HeapSort.exe
+D:\3rd CS\Algo Tasks\HeapSort\HeapSort\bin\Debug\HeapSort.pdb
+D:\3rd CS\Algo Tasks\HeapSort\HeapSort\obj\Debug\HeapSort.exe
+D:\3rd CS\Algo Tasks\HeapSort\HeapSort\obj\Debug\HeapSort.pdb
